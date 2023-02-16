@@ -9,4 +9,4 @@ Project created by ALX School in their ALX - Software Engineering Program
                                
 ## Files
                 
-All of the following files and desriptions 
+All of the following are files and desriptions 
