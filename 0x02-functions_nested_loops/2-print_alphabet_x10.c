@@ -1,17 +1,6 @@
 #include "main.h"
 
 /**
- * main - Check code here
- *
- * Return: 0 (Success)
- */
-int main(void)
-{
-	print_alphabet_x10();
-	return (0);
-}
-
-/**
  * print_alphabet_x10 - print all alphabets in lowercase
  */
 void print_alphabet_x10(void)
