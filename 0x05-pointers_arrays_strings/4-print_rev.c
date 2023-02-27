@@ -1,25 +1,19 @@
 #include "main.h"
 /**
- * print_rev - imprime en reversa
- * @s: string
- * return: 0
+ * print_rev - toma la cadena de la funcion.
+ * @s: value taken from main
+ * Return: (0)
  */
 void print_rev(char *s)
 {
-	int longi = 0;
-	int o;
+	int len;
 
-	while (*s != '\0')
+	for (len = 0; s[len] != '\0'; len++)
 	{
-		longi++;
-		s++;
 	}
-	s--;
-	for (o = longi; o > 0; o--)
+	for (len = len - 1; len >= 0; len--)
 	{
-		putchar(*s);
-		s--;
+		_putchar(s[len]);
 	}
-
 	_putchar('\n');
 }
