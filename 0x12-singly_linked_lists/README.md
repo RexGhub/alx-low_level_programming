@@ -1,1 +1,8 @@
-0x12. C - Singly linked lists
+# 0x12. C - Singly linked lists
+
+Project created by ALX School in their ALX - Software Engineering Program                            
+## Technologies
+                
+* Scripts written in Bash 5.0.17(1)
+                
+* Tested on Ubuntu 20.04 LTS
